@@ -1,0 +1,16 @@
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.exe
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.deps.json
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.runtimeconfig.json
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.runtimeconfig.dev.json
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.dll
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ref\ArrayOdd.dll
+C:\Users\DELL\ArrayOdd\bin\Debug\net5.0\ArrayOdd.pdb
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.csprojAssemblyReference.cache
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.AssemblyInfoInputs.cache
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.AssemblyInfo.cs
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.csproj.CoreCompileInputs.cache
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.dll
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ref\ArrayOdd.dll
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.pdb
+C:\Users\DELL\ArrayOdd\obj\Debug\net5.0\ArrayOdd.genruntimeconfig.cache
